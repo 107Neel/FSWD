@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.card-body{
+    border: 100px;
+    background-color: aquamarine;
+    position: absolute;
+    padding-right: 5%;
+    margin:0 auto;
+}
+.container{
+  margin-left: 32%;
+}
+
+.my-5{
+  margin-left: 33%;
+}
